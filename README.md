@@ -1,7 +1,7 @@
 # WELCOME 👋 I'm JENI  
 
 🔹 Exploring **Persistent Homology, Topological Data Analysis & Graph Theory**  
-🔹 Passionate about **Machine Learning, Computational Topology & AI**  
+🔹 Passionate about **Machine Learning, Computational Topology, neural Network & AI**  
 🔹 Finding patterns in data and uncovering hidden structures 🔍✨  
 
 ---
