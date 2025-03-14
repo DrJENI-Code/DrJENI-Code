@@ -1,16 +1,16 @@
-## Hi there 👋
+# WELCOME 👋 I'm JENI  
 
-<!--
-**DrJENI-Code/DrJENI-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Exploring **Persistent Homology, Topological Data Analysis & Graph Theory**  
+🔹 Passionate about **Machine Learning, Computational Topology & AI**  
+🔹 Finding patterns in data and uncovering hidden structures 🔍✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/dr-jenifer-ste-bb1534a1)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/DrJENI-Code)  
+
+---
+
+⭐ **Fun Fact:** "A mug and a donut are topologically the same!" ☕🍩
